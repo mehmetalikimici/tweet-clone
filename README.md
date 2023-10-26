@@ -10,4 +10,5 @@ As seen in the design, there is a counter containing the maximum number of chara
   <li>Javascript was used in dynamics.</li>
 </ul>
 <h2>Screen</h2>
-![tweet-clone](https://github.com/mehmetalikimici/tweet-clone/assets/115737497/2240f741-8aa2-438a-9833-c6337151e1b6)
+
+![gif](https://github.com/mehmetalikimici/tweet-clone/assets/115737497/a2cb1951-4ddf-4166-9df0-0a3c5f12e865)
